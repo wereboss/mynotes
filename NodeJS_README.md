@@ -1,14 +1,14 @@
 
-###NodeJS Setup and components
+### NodeJS Setup and components
 
-##Package.JSON 
+## Package.JSON 
 
-#Useful scripts
+# Useful scripts
 
-##Express
+## Express
 
-##Typescript
+## Typescript
 
-##Gulp
+## Gulp
 
  
