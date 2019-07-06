@@ -5,6 +5,11 @@
 
 ### Useful scripts
 
+```javascript
+    "dev": "ts-node ./src/server.ts",
+    "start": "nodemon ."
+```
+
 ## Express
 
 ## Typescript

@@ -1,8 +1,8 @@
 
 
-##MongoDB installation:
+# MongoDB installation:
 
-#Mongo Daemon:
+## Mongo Daemon:
 
 mongod --config /usr/local/etc/mongod.conf 
 
