@@ -1,9 +1,9 @@
 
-### NodeJS Setup and components
+# NodeJS Setup and components
 
 ## Package.JSON 
 
-# Useful scripts
+### Useful scripts
 
 ## Express
 
