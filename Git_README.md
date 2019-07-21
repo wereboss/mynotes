@@ -4,7 +4,7 @@
 
 ## Initialise Reportsitory
 ```
-git clone https://github.com/wereboss/reponame.git
+git clone https://github.com/wereboss/betsuv2.git
 git add .
-git remote add pushname https://github.com/wereboss/reponame.git
+git remote add betsuv2 https://github.com/wereboss/betsuv2.git
 ```

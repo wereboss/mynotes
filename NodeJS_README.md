@@ -8,6 +8,23 @@ Initiate by running
 npm init -y
 ```
 
+Frequent installs
+```
+npm install dotenv express body-parser express-handlebars mongoose
+npm install --save-dev @types/express @types/express-handlebars @types/mongoose @types/node nodemon ts-node typescript
+```
+
+Standard Structure
+```
+mkdir src&&cd src
+mkdir views&&mkdir middleware&&mkdir exceptions&&mkdir interfaces
+cd views&&mkdir layouts&&mkdir partials&&mkdir layouts
+cd ..
+touch app.ts&&touch server.ts
+
+```
+
+
 ### Useful scripts
 
 ```javascript
