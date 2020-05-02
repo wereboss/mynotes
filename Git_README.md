@@ -11,6 +11,9 @@ git commit -m "initial commit"
 git pull --rebase origin master
 git push origin master
 
+To change Remote:
+git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
+
 ```
 
 [Useful commands](https://github.com/joshnh/Git-Commands)
