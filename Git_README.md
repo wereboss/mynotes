@@ -14,6 +14,9 @@ git push origin master
 To change Remote:
 git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 
+If any issues pushing to remote or pull rebasing:
+git push -f origin master
+
 ```
 
 [Useful commands](https://github.com/joshnh/Git-Commands)
